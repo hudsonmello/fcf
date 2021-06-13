@@ -521,7 +521,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Contato</h1>
-                    <h4><a class="purple" href="mailto:ferroviariocompostela@hotmail.com">ferroviariocompostela@hotmail.com</a></h4>
+                    <h5><a class="purple" href="mailto:ferroviariocompostela@hotmail.com">ferroviariocompostela@hotmail.com</a></h5>
                     <h4>Nossas redes sociais</h4>
                     <div class="social-container">
                         <span class="fa-stack">
