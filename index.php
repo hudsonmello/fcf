@@ -542,6 +542,12 @@
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
+                        <span class="fa-stack">
+                            <a class="whatsapp" target="_blank" href="https://web.whatsapp.com/send?1=pt_BR&phone=5543999415140">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-whatsapp fa-stack-1x"></i>
+                            </a>
+                        </span>
                     </div> <!-- end of social-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
